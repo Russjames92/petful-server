@@ -1,4 +1,4 @@
 module.exports = {
-    CLIENT_ORIGIN: 'https://petful-client-lime.vercel.app/',
+    CLIENT_ORIGIN: 'http://localhost:3000/',
     PORT: process.env.PORT || 8000,
 };
